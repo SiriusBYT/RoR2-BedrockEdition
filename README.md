@@ -7,6 +7,10 @@ Art by: [u/Blinkychild](https://www.reddit.com/user/Blinkychild/)
 
 ## Changelog
 
+**1.0.1**
+
+* Fix image in README
+
 **1.0.0**
 
 * Initial release

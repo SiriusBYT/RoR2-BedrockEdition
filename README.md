@@ -1,9 +1,12 @@
-# My first mod
+# SkillIssue2
+Replaces the main menu logo with "Issue of Skill 2":
 
-Description.
+![](bg.png "Skill of Issue 2 title")
+
+Art by: [u/Blinkychild](https://www.reddit.com/user/Blinkychild/)
 
 ## Changelog
 
 **1.0.0**
 
-* Release of my first mod.
+* Initial release

@@ -14,7 +14,7 @@ namespace RoR2BedrockEdition
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Ascellayn";
         public const string PluginName = "RoR2_BedrockEdition";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
         public void Awake()
         {
             Log.Init(Logger);

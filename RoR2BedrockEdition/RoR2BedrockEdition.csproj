@@ -81,6 +81,6 @@
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <!-- Copies dll and pdb to plugins folder -->
-    <Copy SourceFiles="@(OutputFiles)" DestinationFolder="C:\Users\Ascellayn\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Ascenilla\BepInEx\plugins\RoR2_BedrockEdition" />
+    <Copy SourceFiles="@(OutputFiles)" DestinationFolder="../plugins/RoR2_BedrockEdition" />
   </Target>
 </Project>

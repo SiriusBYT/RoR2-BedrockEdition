@@ -1,21 +1,13 @@
-# SkillIssue2
-Replaces the main menu logo with "Issue of Skill 2":
+# RoR2 - Bedrock Edition_
+Adds "Bedrock Edition" below the Risk of Rain 2 Logo, because RoR2 Post-SOTS is literally just that.
 
-![](bg.png "Skill of Issue 2 title")
+Mod forked from SkillIssue2 by sorascode, [repository here](https://github.com/sorascode/SkillIssue2).
 
-Original art by: [u/Blinkychild](https://www.reddit.com/user/Blinkychild/)
+![](bg.png "Risk of Rain 2, Bedrock Edition Logo")
 
-Updated art by: K King#3510 on Discord
+### Gearbox Edition version coming out soon maybe
 
 ## Changelog
-
-**1.1.0**
-
-* Update logo
-
-**1.0.1**
-
-* Fix image in README
 
 **1.0.0**
 

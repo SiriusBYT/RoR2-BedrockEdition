@@ -6,20 +6,20 @@ using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 
-namespace SkillIssue2
+namespace RoR2BedrockEdition
 {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
-    public class SkillIssue2 : BaseUnityPlugin
+    public class RoR2_BedrockEdition : BaseUnityPlugin
     {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "Yesterdave";
-        public const string PluginName = "SkillIssue2";
+        public const string PluginAuthor = "Yesterdave&Ascellayn";
+        public const string PluginName = "RoR2BedrockEdition";
         public const string PluginVersion = "1.0.0";
         public void Awake()
         {
             Log.Init(Logger);
             
-            string replacePath = "SkillIssue2.Resources.title.png";
+            string replacePath = "RoR2BedrockEdition.Resources.title.png";
 
             On.RoR2.UI.MainMenu.MainMenuController.Awake += (_, self) =>
             {

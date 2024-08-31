@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>preview</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <RootNamespace>SkillIssue2</RootNamespace>
+    <RootNamespace>RoR2BedrockEdition</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -81,6 +81,6 @@
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <!-- Copies dll and pdb to plugins folder -->
-    <Copy SourceFiles="@(OutputFiles)" DestinationFolder="C:\Users\david\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\MyModding\BepInEx\plugins\SkillIssue2" />
+    <Copy SourceFiles="@(OutputFiles)" DestinationFolder="C:\Users\Ascellayn\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\Ascenilla\BepInEx\plugins\RoR2_BedrockEdition" />
   </Target>
 </Project>

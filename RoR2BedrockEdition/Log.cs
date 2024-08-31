@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace SkillIssue2
+namespace RoR2BedrockEdition
 {
     internal static class Log
     {

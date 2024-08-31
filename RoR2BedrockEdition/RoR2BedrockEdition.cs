@@ -12,8 +12,8 @@ namespace RoR2BedrockEdition
     public class RoR2_BedrockEdition : BaseUnityPlugin
     {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "Yesterdave&Ascellayn";
-        public const string PluginName = "RoR2BedrockEdition";
+        public const string PluginAuthor = "Ascellayn";
+        public const string PluginName = "RoR2_BedrockEdition";
         public const string PluginVersion = "1.0.0";
         public void Awake()
         {
